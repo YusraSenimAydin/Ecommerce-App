@@ -7,12 +7,12 @@ This e-commerce application is designed to provide users with a seamless shoppin
 
 
 
-##Features
+## Features
 - Browse and view product listings.
 - Add and remove items from the shopping cart.
 - Complete the purchase.
 
-##Getting Started
+## Getting Started
 Follow the steps below to run the project on your local machine.
 1. Clone the Project
 
@@ -31,7 +31,7 @@ Follow the steps below to run the project on your local machine.
 
 `` npm start `` 
 
-##Technologies Used
+## Technologies Used
 - React
 - Redux Toolkit
 - Material UI
@@ -40,7 +40,7 @@ Follow the steps below to run the project on your local machine.
 
 
 
-##How to Contribute
+## How to Contribute
 
 Fork this repository.
 Create a new branch: git checkout -b new-feature.
